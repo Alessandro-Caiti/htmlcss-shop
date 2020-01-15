@@ -57,4 +57,5 @@ img {
 
 .store-img:hover .heart {
     display: block;
+    cursor: pointer;
 }
